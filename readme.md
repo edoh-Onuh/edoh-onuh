@@ -74,7 +74,7 @@ npm install
 
 - **Email**: adanu1947@gmail.com
 - **GitHub**: [@JohnEdohOnuh](https://github.com/JohnEdohOnuh)
-- **LinkedIn**: [John Edoh Onuh](https.linkedin.com/in/john-onuh-34634116b)
+- **LinkedIn**: [John Edoh Onuh](www.linkedin.com/in/john-onuh-34634116b)
 
 ## 📄 License
 
