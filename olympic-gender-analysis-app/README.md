@@ -86,5 +86,3 @@ Your web browser should automatically open with the running application.
 2.  **Model Hyperparameter Tuning**: Start the Optuna optimization process to train the gender prediction model.
 3.  **Results & Analysis**: Once tuning is complete, explore the model's performance, feature importance, and interactive charts on gold medal distribution.
 
-![App Screenshot](https://user-images.githubusercontent.com/your-username/your-repo/your-image-link.png) 
-*(You can add a screenshot of your app here after uploading it to your GitHub repo)*
