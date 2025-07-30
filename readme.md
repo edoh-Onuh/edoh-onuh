@@ -72,7 +72,7 @@ npm install
 
 ## 📧 Contact
 
-- **Email**: adanu1947@gmail.com
+- **Email**: onuhj47@gmail.com
 - **GitHub**: [@JohnEdohOnuh](https://github.com/JohnEdohOnuh)
 - **LinkedIn**: [John Edoh Onuh](www.linkedin.com/in/john-onuh-34634116b)
 
